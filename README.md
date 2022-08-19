@@ -1,4 +1,4 @@
-# Dashboard-vendas-02-PowerBI
+# Dashboard de vendas 02 - PowerBI
 Dashboard desenvolvido durante o MiniCurso de PowerBI da DATAB.
 
 ### Resultado do Dashboard:
