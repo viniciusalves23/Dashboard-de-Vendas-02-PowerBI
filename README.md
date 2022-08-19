@@ -1,5 +1,5 @@
 # Dashboard de vendas 02 - PowerBI
-Dashboard desenvolvido durante o MiniCurso de PowerBI da DATAB.
+Dashboard desenvolvido durante o <a href="https://datab.com.br/path-player?courseid=powerbi-minicurso&unit=62619ee8e0b5ea43e70f445fUnit">MiniCurso de PowerBI</a> da <a href="https://datab.com.br/start">DATAB</a>.
 
 ### Resultado do Dashboard:
 
